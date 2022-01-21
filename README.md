@@ -1,23 +1,25 @@
-## AVAILABLE ON :
+## AVAILABLE ON
 
 * Termux
 
-### TESTED ON :
+### TESTED ON
 
 * Termux
 
-### REQUIREMENTS :
+### REQUIREMENTS
+
 * internet
 * storage 400 MB
 * python
 
-## FEATURES :
+## FEATURES
+
 * [+] Real live location !
 * [+] Updated maintainence !
 * [+] Ip lookup
 * [+] Easy for Beginners !
 
-## INSTALLATION [Termux] :
+## INSTALLATION [Termux]
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
@@ -32,13 +34,16 @@
 * `cd ipdrone`
 * `ls`
 * `python ipdrone.py -v (your victim ip here)`
+
 ```
 ex:- python ipdrone.py -v 127.0,0.1
 
 Hurray... you got his location with some more information
 
 ```
-## USAGE OPTIONS [Termux] :
+
+## USAGE OPTIONS [Termux]
 
 __SCAN__ :
-- From this option you can start tracking ip location
+
+* From this option you can start tracking ip location
