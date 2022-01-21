@@ -26,7 +26,7 @@
 * `pkg install git -y`
 * `pip install lolcat`
 * `pip install requests`
-* `git clone https://github.com/noob-hackers/ipdrone`
+* `git clone https://github.com/ASTRA053/IP-Tracker`
 * `cd $HOME`
 * `ls`
 * `cd ipdrone`
