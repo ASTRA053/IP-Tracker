@@ -41,4 +41,4 @@ Hurray... you got his location with some more information
 ## USAGE OPTIONS [Termux] :
 
 __SCAN__ :
-- From this option you can start tracking ip ocation
+- From this option you can start tracking ip lcation
